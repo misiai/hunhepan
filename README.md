@@ -8,6 +8,8 @@
 
 这全部是免费的。
 
+> 混合盘PC版本发布了：https://github.com/misiai/hunhepan
+
 
 **官网：**
 
