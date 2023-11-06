@@ -39,4 +39,8 @@ https://wwb.lanzouw.com/b037ns0eb   密码：g361
 ![image](https://github.com/misiai/hunhepan/assets/52324384/c74a46e6-a165-4b00-9220-8aae6eb90112)![image](https://github.com/misiai/hunhepan/assets/52324384/af61aaa8-b65a-41dc-859b-a48cae346dec)![image](https://github.com/misiai/hunhepan/assets/52324384/15d16f7b-881e-4607-8d8a-b77114dfe68c)![image](https://github.com/misiai/hunhepan/assets/52324384/7322f68e-4242-4af5-865d-a1be68a311ff)
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=misiai/hunhepan&type=Date)](https://star-history.com/#misiai/hunhepan&Date)
+
 
